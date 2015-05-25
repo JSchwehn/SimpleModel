@@ -1,6 +1,5 @@
 <?php
 
-require_once 'XtcModel.php';
 
 /**
  * @method setCustomers_id()
